@@ -1,1 +1,1 @@
-# java-example-projects
+# java-example-project
